@@ -42,8 +42,7 @@ Foi desenvolvido um sistema de assistência em TI que permitia aos usuários cad
 ### Minhas contribuições
 Durante o desenvolvimento do projeto foi uma das responsáveis pelo desenvolvimento do front-end, utilizando HTML e CSS.
 - <b> Hardskills: </b> 
-Aprendi a fazer uma conexão entre o backend e o banco de dados MySQL Workbanch, também aprendi a usar as requisições GET e POST.
-<br>
+Aprendi a fazer uma conexão entre o backend e o banco de dados MySQL Workbanch, também aprendi a usar as requisições GET e POST. <br>
 - <b> Softskills: </b> 
 Desenvolvi minhas habilidades de autonomia, responsabilidade, e de trabalhar em equipe. Além disso, aprendi a ser flexível e a me adaptar rapidamente às mudanças, características essenciais no cenário da tecnologia e que são importantes especialmente na aplicação da metodologia SCRUM. <br> <br> <br>
 
@@ -71,3 +70,21 @@ Fiz a identificação de obstáculos, impedimentos que afetavam o progresso da e
 
 ### 2023 <br> <br> <br> PRIMEIRO SEMESTRE
 ## 💰 Sistema de Gestão de Cobranças
+<b> PROBLEMA: </b> <br>
+Na gestão de cobranças, é preciso uma solução que permita o cadastro de clientes, registro de cobranças das parcelas a receber e dos pagamentos efetuados, além da geração de relatórios de cobrança com diferentes tipos de busca por data e situação das parcelas. <br> <br>
+
+<b> SOLUÇÃO: </b> <br>
+Neste projeto, tinhamos a empresa Pro4Tech como cliente. Foi desenvolvido um sistema que permite o cadastro de usuários, clientes e títulos, facilitando o controle e a visualização das informações relacionadas às cobranças. Além disso, implementamos funcionalidades que permitem o registro das parcelas a receber e a geração de relatórios de cobrança personalizados, levando em consideração os critérios de busca por data e situação das parcelas.
+
+<div align="center">
+ 
+</div>
+  
+### Minhas contribuições
+Durante o desenvolvimento do projeto, tive a oportunidade de aprimorar minhas habilidades no campo da integração entre o front-end e o back-end, por meio da utilização da biblioteca Axios. Além disso, pude continuar meu trabalho no desenvolvimento do front-end, aproveitando a oportunidade para expandir meu conhecimento nessa área e aplicar práticas modernas e eficazes de design e usabilidade. Essa experiência proporcionou uma visão abrangente sobre o ciclo completo de desenvolvimento de um projeto.
+
+Em relação a equipe, foi tomada a decisão de manter um número reduzido de membros que já participavam do grupo anteriormente, com a exceção de um novo membro. Esse novo membro começou em um novo trabalho, o que acabou dificultando sua contribuição efetiva para o grupo, infelizmente, sua presença estava causando atrasos e afetando o progresso do trabalho em equipe. Decidimos abordar o problema de forma aberta e transparente com uma conversa franca com o novo membro, felizmente, o membro mostrou compreensão em relação à situação e se juntou a outro grupo. Essa experiência destacou a importância de ter uma comunicação aberta e honesta dentro da equipe, também ressaltou a importância de encontrar soluções adequadas para melhorar a dinâmica e o desempenho geral da equipe.
+- <b> Hardskills: </b> Desenvolvi a capacidade de criar e personalizar uma tabela interativa, permitindo ao usuário pesquisar nomes, ordenar alfabeticamente ou numericamente os dados por colunas específicas e exibir apenas um conjunto de registros por página.
+  <br>
+- <b> Softskills: </b> Desenvolvi flexibilidade a adição de novos membros, houve melhora em adaptações e também, trabalho em equipe, buscando soluções coletivas. <br>
+
