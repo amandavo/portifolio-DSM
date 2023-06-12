@@ -44,8 +44,11 @@ Durante o desenvolvimento do projeto foi uma das responsáveis pelo desenvolvime
 - <b> Hardskills: </b> 
 Aprendi a fazer uma conexão entre o backend e o banco de dados MySQL Workbanch, também aprendi a usar as requisições GET e POST. <br>
 - <b> Softskills: </b> 
-Desenvolvi minhas habilidades de autonomia, responsabilidade, e de trabalhar em equipe. Além disso, aprendi a ser flexível e a me adaptar rapidamente às mudanças, características essenciais no cenário da tecnologia e que são importantes especialmente na aplicação da metodologia SCRUM. <br> <br> <br>
+Desenvolvi minhas habilidades de autonomia, responsabilidade, e de trabalhar em equipe. Além disso, aprendi a ser flexível e a me adaptar rapidamente às mudanças, características essenciais no cenário da tecnologia e que são importantes especialmente na aplicação da metodologia SCRUM. <br> 
 
+Confira o repositório [aqui](https://github.com/amandavo/Sistema-Gestao-Servicos)
+
+<br> <br>
 
 ### SEGUNDO SEMESTRE
 ## 🤖 Crawler 
@@ -65,7 +68,11 @@ Durante o desenvolvimento do projeto tive a oportunidade de ser Scrum Master, on
 Fiz a identificação de obstáculos, impedimentos que afetavam o progresso da equipe em uma situação em que um membro da equipe enfrentava problemas pessoais que afetavam seu desempenho, resultando em um impacto negativo para o trabalho em equipe, como ao final da sprint não entregar o prometido. Depois de conversarmos para ambos entenderem o lado do outro, não houve melhorias e o membro optou por trancar a matrícula na faculdade sem comunicar previamente. A equipe só teve conhecimento dessa decisão ao perguntarmos aos colegas do semestre do membro.
 - <b> Hardskills: </b> Desenvolvi o front-end do projeto sozinha com o React js, onde usei HTML e CSS aprendido no semestre anterior. Aprendi a fazer o preenchimento automático dos campos de endereço atráves do CEP e a fazer a verificação de CPF.
   <br>
-- <b> Softskills: </b> Desenvolvi ainda mais minhas habilidades e adquiri novas por ter sido Scrum Master, como ter uma comunicação eficaz para transmitir informações de forma clara, tive uma visão de liderança por orientar os membros, aprendi a resolver conflitos ao identificar o obstáculos e buscar soluções. <br> <br> <br>
+- <b> Softskills: </b> Desenvolvi ainda mais minhas habilidades e adquiri novas por ter sido Scrum Master, como ter uma comunicação eficaz para transmitir informações de forma clara, tive uma visão de liderança por orientar os membros, aprendi a resolver conflitos ao identificar o obstáculos e buscar soluções. <br> 
+
+Confira o repositório [aqui](https://github.com/amandavo/API-2)
+
+<br> <br>
 
 
 ### 2023 <br> <br> <br> PRIMEIRO SEMESTRE
@@ -88,3 +95,5 @@ Em relação a equipe, foi tomada a decisão de manter um número reduzido de me
   <br>
 - <b> Softskills: </b> Desenvolvi flexibilidade a adição de novos membros, houve melhora em adaptações e também, trabalho em equipe, buscando soluções coletivas. <br>
 
+Confira o repositório [aqui](https://github.com/amandavo/API-2)
+<br>
