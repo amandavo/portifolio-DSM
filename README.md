@@ -95,5 +95,5 @@ Em relação a equipe, foi tomada a decisão de manter um número reduzido de me
   <br>
 - <b> Softskills: </b> Desenvolvi flexibilidade a adição de novos membros, houve melhora em adaptações e também, trabalho em equipe, buscando soluções coletivas. <br>
 
-Confira o repositório [aqui](https://github.com/amandavo/API-2)
+Confira o repositório [aqui](https://github.com/Neo-Brasil/Neo-Brasil-Documentacao)
 <br>
