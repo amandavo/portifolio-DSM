@@ -14,10 +14,10 @@ Iniciei minha jornada na área de TI em um curso de computação gráfica, fiz o
 
 <div align="center">  
  
-  # Projetos Acadêmicos
+  # Projetos acadêmicos
 </div>
 
-### Primeiro semestre de 2022
+### 2022 <br> <br> <br> PRIMEIRO SEMESTRE
 ## 💻 Sistema de Help Desk
 <b> PROBLEMA: </b> <br>
 Enfretamento de dificuldades para encontrar suporte especializado de forma rápida e eficiente. Era comum que os usuários ficassem perdidos ao tentar solucionar seus problemas técnicos, sem ter acesso fácil a profissionais capacitados. <br> <br>
@@ -42,19 +42,19 @@ Foi desenvolvido um sistema de assistência em TI que permitia aos usuários cad
 ### Minhas contribuições
 Durante o desenvolvimento do projeto foi uma das responsáveis pelo desenvolvimento do front-end, utilizando HTML e CSS.
 - <b> Hardskills: </b> 
-Aprendi a fazer uma conexão entre o backend e o banco de dados MySQL Workbanch, aprendi a usar as requisições GET e POST.
-  <br>
+Aprendi a fazer uma conexão entre o backend e o banco de dados MySQL Workbanch, também aprendi a usar as requisições GET e POST.
+<br>
 - <b> Softskills: </b> 
 Desenvolvi minhas habilidades de autonomia, responsabilidade, e de trabalhar em equipe. Além disso, aprendi a ser flexível e a me adaptar rapidamente às mudanças, características essenciais no cenário da tecnologia e que são importantes especialmente na aplicação da metodologia SCRUM. <br> <br> <br>
 
 
-### Segundo semestre de 2022
+### SEGUNDO SEMESTRE
 ## 🤖 Crawler 
 <b> PROBLEMA: </b> <br>
-bla bla <br> <br>
+O sindicato dos professores enfrentava dificuldades para acompanhar as citações dos seus associados no Diário Oficial do Estado de São Paulo. Essa dificuldade estava interferindo em suas atividades e defesa dos interesses dos professores. Dificultando a identificação e registro das citações relevantes, sobrecarregando a equipe do sindicato. <br> <br>
 
 <b> SOLUÇÃO: </b> <br>
-Neste projeto, tinhamos a empresa MidAll como cliente. Foi desenvolvido um Crawler, programa de computador que percorre a web de forma automatizada, coletando informações e indexando o conteúdo das páginas visitadas, desempenhando um papel fundamental nos motores de busca para capturar as ocorrências de citações dos professores associados do sindicato no Diário Oficial do Estado de São Paulo, uma vez extraído essas informações são processadas, analisadas e relatórios são gerados a partir disso.
+Neste projeto, tinhamos a empresa MidAll como cliente. Foi desenvolvido um Crawler, programa de computador que percorre a web de forma automatizada, coletando informações e indexando o conteúdo das páginas visitadas, desempenhando um papel fundamental nos motores de busca para capturar as ocorrências de citações dos professores associados do sindicato no Diário Oficial do Estado de São Paulo, uma vez extraído essas informações são processadas, analisadas e relatórios são gerados a partir disso. Esses relatórios foram projetados para fornecer ao sindicato uma visão abrangente das citações dos associados, permitindo-lhes identificar rapidamente qualquer problema ou ocorrência relevante.
 
 <div align="center">
  
@@ -64,6 +64,10 @@ Neste projeto, tinhamos a empresa MidAll como cliente. Foi desenvolvido um Crawl
 ### Minhas contribuições
 Durante o desenvolvimento do projeto tive a oportunidade de ser Scrum Master, onde fui responsável por garantir que as reuniões do Scrum ocorram de forma eficiente, organizando as reuniões diárias (Daily), a reunião de planejamento da sprint, revisão da sprint e da retrospectiva da sprint.
 Fiz a identificação de obstáculos, impedimentos que afetavam o progresso da equipe em uma situação em que um membro da equipe enfrentava problemas pessoais que afetavam seu desempenho, resultando em um impacto negativo para o trabalho em equipe, apesar de conversas, não houve melhorias e o membro optou por trancar a matrícula na faculdade sem comunicar previamente. A equipe só teve conhecimento dessa decisão ao perguntarmos aos colegas do semestre do membro.
-- <b> Hardskills: </b> Desenvolvi o front-end do projeto sozinha com o react js, onde usei HTML e CSS aprendido no semestre anterior. Aprendi a fazer o preenchimento automático dos campos de endereço atráves do cep e a fazer a verificação de CEF.
+- <b> Hardskills: </b> Desenvolvi o front-end do projeto sozinha com o React js, onde usei HTML e CSS aprendido no semestre anterior. Aprendi a fazer o preenchimento automático dos campos de endereço atráves do CEP e a fazer a verificação de CPF.
   <br>
-- <b> Softskills: </b> Consegui desenvolver ainda mais minhas habilidades de comunicação, autonomia e responsabilidade, tanto por ser parte de uma equipe quanto por ser Master.   
+- <b> Softskills: </b> Desenvolvi ainda mais minhas habilidades e adquiri novas por ter sido Scrum Master, como ter uma comunicação eficaz para transmitir informações de forma clara, tive uma visão de liderança por orientar os membros, aprendi a resolver conflitos ao identificar o obstáculos e buscar soluções. <br> <br> <br>
+
+
+### 2023 <br> <br> <br> PRIMEIRO SEMESTRE
+## 💰 Sistema de Gestão de Cobranças
